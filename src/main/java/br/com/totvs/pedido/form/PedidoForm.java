@@ -1,7 +1,6 @@
 package br.com.totvs.pedido.form;
 
 import br.com.totvs.pedido.Pedido;
-import br.com.totvs.pedido.PedidoRepository;
 import br.com.totvs.pedido_produto.PedidoProduto;
 import lombok.Getter;
 import lombok.Setter;
