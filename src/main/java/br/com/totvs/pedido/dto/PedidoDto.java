@@ -4,8 +4,6 @@ import br.com.totvs.pedido.Pedido;
 import br.com.totvs.pedido.PedidoSituacao;
 import lombok.Getter;
 import lombok.Setter;
-import org.springframework.data.domain.Page;
-import org.w3c.dom.stylesheets.LinkStyle;
 
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
